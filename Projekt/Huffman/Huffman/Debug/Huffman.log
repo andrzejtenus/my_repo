@@ -1,0 +1,21 @@
+﻿  funkcje.c
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(16): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(16): warning C4047: "=": "lista *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(32): warning C4047: "=": "lista *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(57): warning C4133: "=": niezgodne typy - od "char *" do "lista *"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(59): warning C4133: "=": niezgodne typy - od "char *" do "lista *"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(61): warning C4133: "=": niezgodne typy - od "char *" do "lista *"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(51): warning C4133: "inicjowanie": niezgodne typy - od "lista *" do "char *"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(154): warning C4047: "=": "lista *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(155): warning C4047: "=": "char" różni się w poziomach operatorów pośrednich od "void *"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(176): warning C4047: "=": "kody *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(179): warning C4047: "=": "char *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(190): warning C4047: "=": "kody *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(193): warning C4047: "=": "char *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(248): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(379): warning C4047: "=": "tree *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(398): warning C4047: "=": "tree *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(413): warning C4047: "=": "tree *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(366): warning C4101: "i": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\andrzej\andrzej-tenus-gr71-repo\projekt\huffman\huffman\funkcje.c(441): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: t
+  Huffman.vcxproj -> C:\Users\andrzej\Andrzej-Tenus-gr71-repo\Projekt\Huffman\Debug\Huffman.exe
